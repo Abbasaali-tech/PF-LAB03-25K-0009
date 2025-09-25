@@ -19,3 +19,20 @@ I am currently studying **Artificial Intelligence** at **FAST NUCES**.
 
 My short-term goal is to become confident in **C/C++ programming**.  
 My long-term goal is to become a **professional astificial intelligence**.
+
+# My Programming Journey   <!-- One heading -->
+
+## Interests
+Here are the areas I’m focusing on:
+
+1. C Programming        <!-- Ordered list -->
+2. Python
+3. Web Development
+
+## Hobbies
+- Reading tech blogs     <!-- Unordered list -->
+- Playing football
+- Solving coding puzzles
+
+## Motivation
+I believe that ***hard work and consistency*** are the keys to becoming a great programmer.   <!-- bold + italic -->
